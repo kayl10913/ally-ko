@@ -1,0 +1,19 @@
+body {
+    margin:0;
+    padding:0;
+    background:#000;
+}
+p{
+    margin-top: 0px;
+    background : url(ally.jpg) no-repeat center/cover; 
+    font-size: 10px;
+    line-height: 8px;
+    color: white;
+    text-transform: capitalize;
+    text-align: justify; -webkit-background-size : cover;
+    background-size : cover;
+    background-position : center;
+    filter: grayscale(1);
+    background-attachment : fixed; -webkit-background-clip: text;-webkit-text-fill-color: rgb(255,255,255,0);
+    background-repeat : no-repeat;
+}
